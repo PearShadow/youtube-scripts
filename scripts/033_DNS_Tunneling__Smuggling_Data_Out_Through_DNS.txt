@@ -1,0 +1,59 @@
+[0:00]
+[Exciting music playing in the background as the intro video shows snippets of cyber-crime scenes]
+
+Narrator: Welcome back to our channel where we dive deep into the world of cyber-crime. Today, we're going to uncover a stealthy technique that cybercriminals use to smuggle data out through DNS. Get ready to explore the dark side of technology as we uncover the secrets of DNS tunneling.
+
+[0:30]
+Narrator: But first, let's set the stage and understand the background of DNS tunneling. 
+
+[Background/Context]
+Narrator: DNS, or Domain Name System, is like the internet's address book. It translates human-readable domain names like www.example.com into IP addresses that computers understand. But what happens when cybercriminals exploit this system to transport data covertly? That's where DNS tunneling comes into play.
+
+[1:00]
+Narrator: Imagine a scenario where an attacker needs to exfiltrate sensitive data from a secure network without triggering any alarms. This is where DNS tunneling shines. By encapsulating data within DNS queries and responses, attackers can bypass traditional security measures and sneak data out right under the radar.
+
+[Main Narrative]
+Narrator: Let's dive into the main narrative of how DNS tunneling works in a step-by-step fashion.
+
+[1:30]
+Narrator: Step 1: Initiating the Tunnel
+The attacker first sets up a covert communication channel by configuring a DNS server to act as a tunnel endpoint. This server will handle the incoming and outgoing DNS requests that carry the hidden data.
+
+[2:00]
+Narrator: Step 2: Data Encapsulation
+Next, the attacker encapsulates the data within DNS queries or responses. This can be achieved by encoding the data in the subdomains of the DNS queries or in the additional data section of DNS packets.
+
+[2:30]
+Narrator: Step 3: Transmission
+The encoded data is sent over the DNS channel to the malicious DNS server, which extracts the hidden information and forwards it to the attacker's command and control server. This process is repeated until all the data is successfully exfiltrated.
+
+[3:00]
+Narrator: Step 4: Data Extraction
+Once the data reaches the attacker's server, it is decoded and reconstructed to reveal the original information. This could be sensitive documents, login credentials, or any other data that the attacker is after.
+
+[3:30]
+Narrator: Step 5: Covering Tracks
+To avoid detection, attackers may use techniques like domain fluxing to switch between multiple domain names or employ encryption to obfuscate the transmitted data and make it harder for security tools to detect the malicious activity.
+
+[4:00]
+Narrator: So, what are the key takeaways from this clandestine technique of DNS tunneling?
+
+[Key Takeaways]
+Narrator: Key Takeaway 1: DNS tunneling allows cybercriminals to bypass traditional security controls by smuggling data out through DNS, posing a significant threat to organizations and their data security.
+
+[4:30]
+Narrator: Key Takeaway 2: Detection of DNS tunneling requires advanced security measures that can inspect DNS traffic for anomalies, patterns, and suspicious behavior to identify and block malicious activities.
+
+[5:00]
+Narrator: Key Takeaway 3: Organizations should implement DNS security solutions, monitor DNS traffic for signs of tunneling, and regularly update their security policies to mitigate the risks associated with DNS tunneling attacks.
+
+[5:30]
+Narrator: Now that you're aware of the dangers posed by DNS tunneling, it's crucial to stay informed and vigilant in the ever-evolving landscape of cyber threats.
+
+[Call to Action]
+Narrator: If you found this video informative and eye-opening, make sure to subscribe to our channel, like this video, and share your thoughts in the comments below. Stay tuned for more insights into the world of cyber-crime. Until next time, stay safe and stay secure.
+
+[6:00]
+[Upbeat music playing as the outro video shows snippets of upcoming videos] 
+
+Narrator: Thank you for watching, and remember, knowledge is your best defense in the fight against cyber-crime. See you in the next video!
