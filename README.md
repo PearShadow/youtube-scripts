@@ -1,3 +1,6 @@
+LINK UPWORK: https://www.upwork.com/jobs/~021915980811448016861?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2Fdetails%2F~021915980811448016861
+ID: 021915980811448016861
+
 # YouTube Script Generator
 
 A simple Python tool to generate engaging 5–10 minute cyber-crime video scripts using OpenAI GPT models.
